@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/nick-notes/english-the-crucible-notes/","tags":["crucible","english"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/gitshit/nick-notes/english-the-crucible-notes/","tags":["crucible","english"]}
 ---
 
 Related text: An Irish Airman foresees his death (poem)
