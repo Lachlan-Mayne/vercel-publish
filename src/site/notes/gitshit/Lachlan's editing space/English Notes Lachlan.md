@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/lachlan-s-editing-space/english-notes-lachlan/","tags":["english","crucible","notes"]}
+{"dg-publish":true,"permalink":"/gitshit/lachlan-s-editing-space/english-notes-lachlan/","tags":["english","crucible","notes"],"noteIcon":""}
 ---
 
 
