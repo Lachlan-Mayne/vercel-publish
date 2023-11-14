@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/lachlan-s-editing-space/maths-ultimate/","tags":["maths","mathematics"]}
+{"dg-publish":true,"permalink":"/gitshit/lachlan-s-editing-space/maths-ultimate/","tags":["maths","mathematics"],"noteIcon":""}
 ---
 
 # Tasks
@@ -69,6 +69,8 @@ C2.2: Rules of differentiation
 	- use the composite function rule (chain rule) to establish that $\frac{d}{dx}(\ln{f(x)})=\frac{f'(x)}{f(x)}$
 	- use the logarithmic laws to simplify an expression before differentiating
 	- use the composite function rule (chain rule) to establish and use the derivatives of $\sin{(f(x))}, \cos{(f(x))}$ and $\tan{(f(x))}$
+
+With logs, always simplify first using log laws
 ## Extension
 ### Term 1
 #### ME-P1 Proof by Mathematical Induction
@@ -99,6 +101,7 @@ Students develop complex algebraic manipulative skills and fluency in applying t
 - Solve trigonometric equations requiring factorising and/or the application of compound angle, double angle formulae or the t-formulae
 - Prove and apply other trigonometric identities, for example $\cos{3x}=4\cos{^3x}-3\cos{x}$
 - Solve trigonometric equations and interpret solutions in context using technology or otherwise
+With t-formulae, sub in asymptotes for tan function
 #### ME-C2 Further Calculus Skills
 - Find derivatives of inverse functions by using the relationships $\frac{dy}{dx}=\frac{1}{\frac{dx}{dy}}$
 - Solve problems involving the derivatives of inverse trigonometric functions
@@ -117,6 +120,11 @@ Differentiate both sides: $\frac{y'}{y}=\frac{d}{dx}x\ln{x}$
 Multiply by y to make y' the subject: $y'=y(x\frac{1}{x}+\ln{x})$
 sub in the value for y: $y'=x^x(x\frac{1}{x}+\ln{x})$
 Simplify: $y'=x^x+x^x\ln{x}$
+
+Finding $\frac{dy}{dx}$ maximum and minimum values (extremes), differentiate f(x) then find gradient function = 0
+$\frac{d^2y}{dx^2}$ analytical method of solving for maximums and minimums ![Screenshot 2023-11-14 at 3.28.40 pm.png](/img/user/gitshit/Lachlan's%20editing%20space/images/Screenshot%202023-11-14%20at%203.28.40%20pm.png)If the second derivative is a positive integer for f'(x)=0, then it is a minimum point, and if the second derivative is a negative integer for f'(x)=0. ![Screenshot 2023-11-14 at 3.33.49 pm.png](/img/user/gitshit/Lachlan's%20editing%20space/images/Screenshot%202023-11-14%20at%203.33.49%20pm.png)
+If f''(x)=0, it could also be a point of inflection. ![Screenshot 2023-11-14 at 3.35.43 pm.png](/img/user/gitshit/Lachlan's%20editing%20space/images/Screenshot%202023-11-14%20at%203.35.43%20pm.png)
+![Screenshot 2023-11-14 at 4.08.12 pm.png](/img/user/gitshit/Lachlan's%20editing%20space/images/Screenshot%202023-11-14%20at%204.08.12%20pm.png)
 
 # Functions
 #functions
