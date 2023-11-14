@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/glossary/","noteIcon":""}
+{"dg-publish":true,"permalink":"/gitshit/glossary/"}
 ---
 
 
