@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/viz-s-editing-space/business-assignment-viz/","noteIcon":""}
+{"dg-publish":true,"permalink":"/gitshit/viz-s-editing-space/business-assignment-viz/"}
 ---
 
 
