@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/viz-s-editing-space/business-notes-viz/"}
+{"dg-publish":true,"permalink":"/gitshit/viz-s-editing-space/business-notes-viz/","noteIcon":""}
 ---
 
 
