@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/nick-notes/boutta-business/","tags":["business"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/gitshit/nick-notes/boutta-business/","tags":["business"]}
 ---
 
 Performance Objectives: (how businesses maximise profit)
