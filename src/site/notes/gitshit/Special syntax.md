@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/special-syntax/","tags":["syntax","how-to","guide","obsidian","markdown"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/gitshit/special-syntax/","tags":["syntax","how-to","guide","obsidian","markdown"]}
 ---
 
 By adding this at the top of any pages, it'll make it easier to search for different topics
