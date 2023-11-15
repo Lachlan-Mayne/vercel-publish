@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/gitshit/viz-s-editing-space/crucible-viz/"}
 ---
+
 
 **(Chose Crucible on purpose in year 10 when we first studied classic literature. Crouch approves these notes and says I could use the ones I made back then)**
 
@@ -257,3 +258,6 @@ Upon reading the poem for the first time, I was challenged by the lack of attach
 Question:
 Have I properly explained how the anomalies are explored. 
 Do I need to improve the level of first person reflection. 
+
+First response, 
+Put in the B range because it uses some quotes, techniques, imperative language. There is no mentioning of context, grammatical errors. Good choice of some words, (polarisation, justice system) 
