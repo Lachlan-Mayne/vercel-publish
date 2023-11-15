@@ -1,3 +1,4 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/gitshit/jonah/file/"}
 ---
+
