@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/readme/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/gitshit/readme/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 
