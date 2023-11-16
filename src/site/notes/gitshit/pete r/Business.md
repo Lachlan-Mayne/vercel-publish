@@ -8,6 +8,7 @@
 - Responsible for acquiring the inputs and devising the best production methods so that the value adding occurs
 - The strategic role of operations management in business is to play a part in ensuring that the goals of the organisation are met.
 - Generally, business goals have to do with profit maximisation, which is achieved through maximising revenue and minimising costs. Expense minimisation.
+
   
 ## Cost Leadership:
 
@@ -337,3 +338,20 @@ Businesses outsource:
 - Sales leads
 - Legal Services
 - Research & Development
+
+## Technology:
+- Technology is important for all businesses
+- The use of technology allows businesses to obtain competitive advantage
+- Businesses need to make the decision to use either leading edge technology, established technology, or a combination of both
+- **Leading edge technology: most advanced or innovative at any point in time**
+- Established technology is technology that has been developed and is widely used already
+- They may not offer a competitive advantage, but not using them might be a competitive disadvantage
+- **Leading edge is about getting ahead, established is about maintaining pace**
+
+## Tech in Qantas:
+- Kiosk self-service:
+	- Established
+- Airbus A350-1000:
+	- Leading edge
+
+**Even if a business**
