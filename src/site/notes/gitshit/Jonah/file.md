@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/jonah/file/"}
+{"dg-publish":true,"permalink":"/gitshit/jonah/file/","noteIcon":""}
 ---
 
