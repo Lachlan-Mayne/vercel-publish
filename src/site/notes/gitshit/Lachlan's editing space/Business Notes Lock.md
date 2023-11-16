@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/lachlan-s-editing-space/business-notes-lock/","tags":["notes","business","operations"]}
+tags:
+  - notes
+  - business
+  - operations
+dg-publish: true
 ---
-
 Operations management:
 
 - Responsible for acquiring the inputs and devising the best production methods so that the value adding occurs 
