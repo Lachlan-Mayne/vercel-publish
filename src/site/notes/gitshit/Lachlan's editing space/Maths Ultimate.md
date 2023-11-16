@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/lachlan-s-editing-space/maths-ultimate/","tags":["maths","mathematics"]}
+{"dg-publish":true,"permalink":"/gitshit/lachlan-s-editing-space/maths-ultimate/","tags":["maths","mathematics"],"noteIcon":""}
 ---
 
 # Tasks
