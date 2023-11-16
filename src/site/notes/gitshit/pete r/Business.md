@@ -349,9 +349,16 @@ Businesses outsource:
 - **Leading edge is about getting ahead, established is about maintaining pace**
 
 ## Tech in Qantas:
-- Kiosk self-service:
+**- Kiosk self-service:**
 	- Established
-- Airbus A350-1000:
+**- Airbus A350-1000:**
+	- Leading edge
+**- In-flight entertainment:**
+	- Established
+**- Flight tracking:**
+	- Established
+**- Bio-fuel:**
 	- Leading edge
 
-**Even if a business**
+- **Even if a piece of technology is established, it can still be a leading cause for streamlining production process**
+- Companies won't always use leading edge technology if it's inefficient at meeting customer expectations
