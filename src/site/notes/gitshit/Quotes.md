@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/quotes/"}
+{"dg-publish":true,"permalink":"/gitshit/quotes/","noteIcon":""}
 ---
 
 
