@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/garden-landing-page/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/gitshit/garden-landing-page/","noteIcon":""}
 ---
 
 # Welcome to our digital garden!
