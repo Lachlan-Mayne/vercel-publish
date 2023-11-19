@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/lachlan-s-editing-space/chemistry/"}
+{"dg-publish":true,"permalink":"/gitshit/lachlan-s-editing-space/chemistry/","noteIcon":""}
 ---
 
 
