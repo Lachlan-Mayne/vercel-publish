@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/lachlan-s-editing-space/maths-ultimate/","tags":["maths","mathematics"]}
+tags: maths,mathematics
+dg-publish: true
+dg-home: false
 ---
-
 # Tasks
 ## Advanced
 ### Term 1:
