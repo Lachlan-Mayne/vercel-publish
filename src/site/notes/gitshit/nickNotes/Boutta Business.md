@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/nick-notes/boutta-business/","tags":["business"]}
+{"dg-publish":true,"permalink":"/gitshit/nick-notes/boutta-business/","tags":["business"],"noteIcon":""}
 ---
 
 #### ACTIVITIES 
