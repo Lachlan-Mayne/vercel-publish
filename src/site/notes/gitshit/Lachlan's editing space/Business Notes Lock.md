@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/lachlan-s-editing-space/business-notes-lock/","tags":["notes","business","operations"]}
+{"dg-publish":true,"permalink":"/gitshit/lachlan-s-editing-space/business-notes-lock/","tags":["notes","business","operations"],"noteIcon":""}
 ---
 
 Operations management:
