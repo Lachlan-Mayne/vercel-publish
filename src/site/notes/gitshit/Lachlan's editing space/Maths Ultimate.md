@@ -216,3 +216,15 @@ apply a limit as x approaches 0:
 Whenever there is a power on the bottom of the fraction larger than the top, doing the above process will always result in 0
 
 
+
+# EXT1: Proof by Mathematical Induction (PMI)
+For most sequential equations, such as $1+2+...+n=\frac{n(n+1)}{2}$, they can be proved by PMI. To prove, begin by testing the "base case", which is given in the question (e.g. prove that sequence $h$ is true for integer $n>3$). If there isn't a base case given in the question, just use $n=1$, and write that in the working. 
+
+Once the base case is proven true, we have to prove that if it works for any number, it'll work for any number plus 1. This step is known as the inductive assumption/hypothesis. In a worked question, it would look like the following:
+(base case proven true)
+Assume true for $n=k$:
+$\therefore1+2+...+k=\frac{k(k+1)}{2}$
+Once the $n$ variable has been swapped with $k$, we must test $n=k+1$:
+Test $n=k+1$:
+$1+2+...+k+(k+1)=\frac{(k+1)((k+1)+1)}{2}$
+This involves rewriting the equation, with an addition problem it involves adding an extra variable on the left, and subbing in $k+1$ for all $k$ on the right. For a division equation, it would involve swapping all $k$ with $k+1$ on left and right of eqn.
