@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/qantas-case-study-csr-vry-helpful/"}
+{"dg-publish":true,"permalink":"/gitshit/qantas-case-study-csr-vry-helpful/","noteIcon":""}
 ---
 
 
