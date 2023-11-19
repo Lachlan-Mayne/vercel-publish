@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/business-glossary-read-only/","tags":["business","glossary","meanings","notes"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/gitshit/business-glossary-read-only/","tags":["business","glossary","meanings","notes"]}
 ---
 
 Cost: how much a business pays for a good/service
