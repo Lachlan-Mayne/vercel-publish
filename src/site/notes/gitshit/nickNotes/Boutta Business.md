@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/nick-notes/boutta-business/","tags":["business"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/gitshit/nick-notes/boutta-business/","tags":["business"]}
 ---
 
 #### ACTIVITIES 
@@ -44,3 +44,36 @@ An example of established tech at Qantas is the kiosk self service and the wifi/
 	- Customisable
 
 
+Quality management at Qantas:
+- Quality control
+- Quality assurance
+- Quality Improvement 
+
+Activity
+
+| |**Definition**|**Slogan**|**Application example**|**Avantages**|**Disadvantages**|
+| - | - | - | -|-|-|
+|**Quality Control**|||||
+|**Quality Assurance**||||||
+|**Quality Improvement**|||||
+|**Example**||||||
+
+
+**
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|- Carrying out inspections at key stages of the transformation process|"Precision Perfected, Quality Assured."|A baker checking on his bread|-Customer satisfaction <br><br>  <br><br>- Check for small errors<br><br>  <br><br>-Reduced Defects<br><br>  <br><br>-good brand image<br><br>  <br><br>-competitive advantage|- time-consuming<br><br>- costly|
+
+
+
+
+
+|   |   |
+|---|---|
+|Involves the use od a system to ensure standards are achieved|Ensuring your products are perfectly made every step of the way|
+
+
+**|   |   |
+|---|---|
+|- Make sure all customers expectations are met<br><br>- can result in good word of mouth|- Expensive to train employees for the task<br><br>- time consuming|**
