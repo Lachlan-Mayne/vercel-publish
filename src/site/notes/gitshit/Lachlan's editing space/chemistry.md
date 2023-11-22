@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/lachlan-s-editing-space/chemistry/","noteIcon":""}
+{"dg-publish":true,"permalink":"/gitshit/lachlan-s-editing-space/chemistry/"}
 ---
 
 
@@ -11,3 +11,9 @@ C[N+]([O-])=NCOC1OC(CO)C(O)C(O)C1O
 ```
 
 https://cactus.nci.nih.gov/chemical/structure
+```smiles
+
+```
+```smiles
+N
+```
