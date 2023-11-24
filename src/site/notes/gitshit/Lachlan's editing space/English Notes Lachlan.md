@@ -245,7 +245,7 @@ Language features:
 
 # Resources:
 
-# [Court Records and other useful stuff](https://salem.lib.virginia.edu/home.html)
+[Court Records and other useful stuff](https://salem.lib.virginia.edu/home.html)
 
 [“Common Module Cheat Sheet - Advanced”](https://hsc.one/courses/english-advanced-hsc/assets/common-mod-cheat-sheet.pdf)
 
@@ -324,3 +324,18 @@ Lynching: public killing of an individual who has not received any due process
 
 Power: The ability to influence the abilities/acts of others//the capacity to act in a certain way
 
+
+# Essay writing
+## Using the TEEL structure:
+Well structured paragraphs are important because if the information is well organised it is easier to read.
+The TEEL strategy is very helpful for knowing what should be included in a paragraph:
+- Topic sentence (contains the main idea is usually first in the paragraph)
+- Explain
+- Evidence and example (use references)
+- Link (refer back or sum up main idea) - optional
+
+Example paragraph:
+What anomalies and paradoxes are there in the Crucible?
+T: Paradoxes are an effective method of an author communicating a message with their audience. 
+E: Within storytelling, an author writes a text to convey a meaning towards the audience, often a collective human experience. 
+E: Within the crucible, Arthur Miller writes about a paradoxical historical event, the Salem witch trials. Within a Puritan (christianity-aimed religion) village, the Devil is a major scare to the citizens. The paradox within the Trials that Arthur explores is one of 
