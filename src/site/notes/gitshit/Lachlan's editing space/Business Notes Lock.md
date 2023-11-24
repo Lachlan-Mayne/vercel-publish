@@ -116,6 +116,26 @@ Inspections carried out to make sure the process is meeting standards, managemen
 Measuring against standards at many levels of quality. 
 - Quality Improvement
 
+## Overcoming resistance to change - financial costs, purchasing new equipment, redundancy payments, retraining, reorganising plant layout, inertia
+Change is a key influence on management ops, managing and being responsive about change may come with resistance or hesitation - therefore managers are strategic about it
+Change can come from:
+- Legislation
+- Economic conditions
+- Social expectations
+- Technology
+Change may require **major alterations to the way operations are undertaken**; people need to learn new skills, possibly lose jobs...
+
+Resistance is either **financial** or **emotional/psychological**.
+Financial costs:
+- Purchasing new equipment
+- Redundancy payments
+- Retraining
+	- Reorganisation of internal hierarchy, staff needing training etc
+- Reorganising plant layout
+Emotional/psychological:
+- Inertia
+
+
 
 # Glossary:
 
