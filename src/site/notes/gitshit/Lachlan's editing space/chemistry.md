@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/lachlan-s-editing-space/chemistry/"}
+dg-publish: true
 ---
-
 
 # Aboriginal Chemistry
 Poisons and cycad leeching:
