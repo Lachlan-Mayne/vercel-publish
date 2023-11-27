@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/lachlan-s-editing-space/business-notes-lock/","tags":["notes","business","operations"]}
+tags:
+  - notes
+  - business
+  - operations
+dg-publish: true
 ---
-
-Operations management:
+# Operations management:
 
 - Responsible for acquiring the inputs and devising the best production methods so that the value adding occurs 
 - The strategic role of operations management in business is to play a part in ensuring that the goals of the organisation are met.   
@@ -136,6 +139,27 @@ Emotional/psychological:
 - Inertia
 
 
+
+## Global factors - global sourcing, economies of scale, scanning and learning, research and development
+Global factors:
+1. Pretty much all **businesses are influenced by global factors**, which in turn will impact their operations
+2. Global operations can offer **cost-savings for operations managers** when they consider the most suitable sourcing options and advantages of locating their operations around the world.
+3. Operations management that has been well set up, will allow **businesses to not just respond but be successful in the ever-changing international** business environment
+### Global sourcing:
+Refers to businesses purchasing supplies or services without being constrained by location. Global sourcing ensures that the outsourcing decision is made with consideration of the global market.
+
+| Advantages | Disadvantages |
+| --- | --- |
+| - Cost advantages<br/> - Access to new technology<br/> - Expertise and knowledge<br/> - Labour specialisations/skills<br/> - New resources<br/> - Longer hours of working | Possible need to relocate<br/> - Increased cost of logistics<br/> - Storage and distribution issues<br/> - Different national standards/regulations<br/> - Increased risk of fluctuations in foreign currency/exchange rates<br/> - Language and cultural variations |
+
+Global factors at Qantas:
+
+| **Factor** | **Looks like at Qantas** |
+| -- | -- |
+|Global sourcing|e.g. Asian cabin crews and pilots from NZ have been employed for some routes to take advantage of lower costs|
+|Economies of scale|Outsourcing|
+|Scanning & Learning|Stealing Qatar airways blueprints|
+|Research & Development|Scientists developing biofuel|
 
 # Glossary:
 
