@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/readme/"}
+{"dg-publish":true,"permalink":"/gitshit/readme/","noteIcon":""}
 ---
 
 
