@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/nick-notes/boutta-business/","tags":["business"]}
+tags:
+  - business
+dg-publish: true
 ---
-
 #### ACTIVITIES 
 1. Describe - characteristics and features
 2. Identify - naming
