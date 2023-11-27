@@ -1,12 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/lachlan-s-editing-space/english-notes-lachlan/","tags":["english","crucible","notes"]}
+{"dg-publish":true,"permalink":"/gitshit/lachlan-s-editing-space/english-notes-lachlan/","tags":["english","crucible","notes"],"noteIcon":""}
 ---
 
 
 # Texts & Human experiences
 
-  
+### reflection paragraph:
+"The sun will move on, and I will simply watch." The widower in the country is a poem about the human experience of grief that almost all of its audience can relate to. As pretty much everyone in the world has experienced some form of grief,  
 
+
+Hand in a 250-300 word reflection on one of the human experiences in your related text. Use the following
+questions to scaffold your reflection.
+1. What anomalies, inconsistencies and/or paradoxes are explored in your related text?
+2. How has this text invited you to see the world differently?
 ## Texts Definition:
 
 Texts are a vehicle through which we share experiences. Texts are shaped by experiences and they shape experiences. It’s through texts that we encounter and understand human experiences. This is, therefore, a study of the way texts share or represent experiences.
@@ -338,4 +344,6 @@ Example paragraph:
 What anomalies and paradoxes are there in the Crucible?
 T: Paradoxes are an effective method of an author communicating a message with their audience. 
 E: Within storytelling, an author writes a text to convey a meaning towards the audience, often a collective human experience. 
-E: Within the crucible, Arthur Miller writes about a paradoxical historical event, the Salem witch trials. Within a Puritan (christianity-aimed religion) village, the Devil is a major scare to the citizens. The paradox within the Trials that Arthur explores is one of 
+E: Within the crucible, Arthur Miller writes about a paradoxical historical event, the Salem witch trials. Within a Puritan (christianity-aimed religion) village, the Devil is a major scare to the citizens. The paradox within the Trials that Arthur explores is one around how a Puritan village leads themselves to turn against each other, involving the human experience of power, and how it can corrupt people. Reverend Hale believes he is immune to the Devil, yet ends up becoming worried only with keeping his own power, and his reputation over the other villagers.
+L: By exploring how paradoxical the witch trials were, Arthur Miller writes an effective text explaining how power can corrupt.
+
