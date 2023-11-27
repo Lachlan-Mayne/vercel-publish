@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/special-syntax/","tags":["syntax","how-to","guide","obsidian","markdown"]}
+tags:
+  - syntax
+  - how-to
+  - guide
+  - obsidian
+  - markdown
+dg-publish: true
 ---
-
 By adding this at the top of any pages, it'll make it easier to search for different topics
 ```
 ---
@@ -32,6 +37,10 @@ flowchart TD
 |**Title one**|**2nd title**|**Title 3**|**etc**|
 | - | :- | -: | :-: |
 |non-indented|left-indented|right indented|centred|
+
+|heading 1|Heading 2|
+|---|---|
+|<ul> <li>First item</li> <li>Second Item</li> </ul>|<ol> <li>Item 1 </li> <li>Item 2</li> </ol>|
 #tables #diagram 
 
 Here's some text!
