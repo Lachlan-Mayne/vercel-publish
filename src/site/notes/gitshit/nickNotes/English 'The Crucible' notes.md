@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/nick-notes/english-the-crucible-notes/","tags":["crucible","english"]}
+tags:
+  - crucible
+  - english
+dg-publish: true
 ---
-
 Related text: An Irish Airman foresees his death (poem)
 
 An anomaly is something that deviates from what is standard or normal
