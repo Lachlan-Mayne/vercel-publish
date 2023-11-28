@@ -229,3 +229,13 @@ Once the $n$ variable has been swapped with $k$, we must test $n=k+1$:
 Test $n=k+1$:
 $1+2+...+k+(k+1)=\frac{(k+1)((k+1)+1)}{2}$
 This involves rewriting the equation, with an addition problem it involves adding an extra variable on the left, and subbing in $k+1$ for all $k$ on the right. For a division equation, it would involve swapping all $k$ with $k+1$ on left and right of eqn.
+
+# Vectors
+$\vec{ab}$ involves a length (magnitude), direction is the direction
+$||\vec{ab}||$ signifies the length which equals $\sqrt{a^2+b^2}$
+	$M=\sqrt{(x_1)^2+(y_1)^2}$
+![Screenshot 2023-11-28 at 2.40.21 pm.png](/img/user/gitshit/Lachlan's%20editing%20space/images/Screenshot%202023-11-28%20at%202.40.21%20pm.png)
+Points have a location, vectors have a vector
+$||\vec{a}||=1$ - normal vector
+$\vec{a}*\vec{b}=[x_1*x_2]+[y_1*y_2]$
+![Screenshot 2023-11-28 at 2.58.29 pm.png](/img/user/gitshit/Lachlan's%20editing%20space/images/Screenshot%202023-11-28%20at%202.58.29%20pm.png)
