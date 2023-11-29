@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/gitshit/viz-s-editing-space/business-notes-viz/"}
 ---
+
 
 Business 2023
 
