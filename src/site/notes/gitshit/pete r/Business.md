@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/gitshit/pete-r/business/"}
 ---
+
 
 ## Operations management:
 
