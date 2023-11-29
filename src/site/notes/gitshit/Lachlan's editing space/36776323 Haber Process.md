@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gitshit/lachlan-s-editing-space/36776323-haber-process/","noteIcon":""}
+{"dg-publish":true,"permalink":"/gitshit/lachlan-s-editing-space/36776323-haber-process/"}
 ---
 
 
